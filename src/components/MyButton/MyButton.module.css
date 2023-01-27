@@ -1,0 +1,12 @@
+.myBtn {
+  width: 100px;
+  height: 50px;
+  border: 2px solid rgb(70, 70, 70);
+  background-color: rgba(0, 0, 0, 0.2);
+} 
+.myBtn:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+} 
+.myBtn:active {
+  background-color: rgba(0, 0, 0, 0.8);
+} 
